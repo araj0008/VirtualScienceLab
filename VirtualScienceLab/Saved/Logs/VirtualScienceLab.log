@@ -791,3 +791,32 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.01-14.28.05:174][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
 [2022.08.01-14.28.05:177][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
 [2022.08.01-14.29.24:489][803]LogDerivedDataCache: C:/Users/induk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.154 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.01-14.33.35:765][198]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.08.01-14.33.35:835][198]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.08.01-14.33.38:367][417]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.01-14.33.38:370][417]LogSlate: Window 'Project Settings' being destroyed
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: URL: C:\Users\induk\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: URL: C:\Users\induk\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.01-14.33.47:741][417]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.08.01-14.33.56:676][469]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2022.08.01-14.33.56:676][469]LogWindows: Warning: URL: E:/Unreal Engine/UE_5.0/Engine/Binaries/Win64/ version
+[2022.08.01-14.35.16:991][214]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2022.08.01-14.35.16:991][214]LogWindows: Warning: URL: E:/Uni/Git/VirtualScienceLab/VirtualScienceLab version
+[2022.08.01-14.35.17:116][229]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2022.08.01-14.35.17:116][229]LogWindows: Warning: URL: E:/Uni/Git/VirtualScienceLab/VirtualScienceLab version
+[2022.08.01-14.35.17:116][229]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.08.01-14.35.28:395][532]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2022.08.01-14.35.28:395][532]LogWindows: Warning: URL: E:/Uni/Git/VirtualScienceLab/VirtualScienceLab version
+[2022.08.01-14.35.28:395][532]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.08.01-14.36.00:621][389]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
